@@ -1,3 +1,8 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<style type="text/css">
+
 
 	body{
  background-color: #b7d1c4 ;  
@@ -67,3 +72,38 @@ ul{
 	clear: both;
 }
 
+
+
+
+		</style>
+
+		<title>Der unglaubliche Luca Spindler</title>
+	</head>
+	<body>
+	
+	<div id="header">
+	
+				<ul><a href="http://www.nfl.com/">
+					<li class="oben">Home</li></a>
+					<li class="oben">About Me</li>
+					<li class="oben">Impersum</li>
+					<li class="oben">Contact</li>
+				</ul>
+	</div>
+	
+	
+	
+	<div class="left"> 
+	<h3> hallo</h3>
+	<ol>
+	    <li>asd</li>
+	    <li>asd</li>
+	</ol>
+	</div>
+	<div class="right"> <h3> du </h3><p>penis</p> </div>
+	<div id="footer"> <h3>asd</h3><p>penis</p> </div>
+	<h2>coming soon</h2>
+	
+	
+	</body>
+</html>
